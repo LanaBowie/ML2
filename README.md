@@ -1,6 +1,6 @@
 # ML2
 
 
-##supervised learning
+### supervised learning
 
 linear models, regularization techniques, overfitting, underfitting, and metrics for quality estimation
